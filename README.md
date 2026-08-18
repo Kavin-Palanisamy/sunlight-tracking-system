@@ -1,4 +1,4 @@
-# 🌞 Sunlight Tracking System
+#  Sunlight Tracking System
 
 An automated **Sunlight Tracking System** designed to improve solar panel efficiency by continuously adjusting the panel toward the direction of maximum sunlight.
 
