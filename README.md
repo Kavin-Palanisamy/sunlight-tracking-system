@@ -18,7 +18,7 @@ The system reduces the need for manual panel adjustment and helps maximize the u
 * Improve the amount of sunlight received by the solar panel.
 * Reduce manual adjustment of the panel.
 * Develop a simple and low-cost solar tracking prototype.
-* Apply Design Thinking principles to solve a real-world energy problem.
+* Apply Design Thinking principles to solve a real-world energy problem
 
 ---
 
